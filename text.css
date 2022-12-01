@@ -1,0 +1,13 @@
+
+  .student{
+    margin:0 auto;
+    width:400px;
+    direction:rt1;
+    color:#C00;
+    font-family:times new roman, times, serif;
+    font-weight:bold;
+    font-size:16px;
+    border: solid #990 1px;
+    border-radius: 3px 3px 3px 3px;
+    padding: 4px 4px 4px 4px;
+  }
